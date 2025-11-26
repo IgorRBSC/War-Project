@@ -25,6 +25,3 @@ make
 - `utils.h/.c` - funções utilitárias.
 - `Makefile` - para compilar.
 
-## Observações
-- Projeto educacional com foco em organização, modularização e uso de ponteiros.
-- É possível estender para salvar/ler de arquivo, IA, rede, etc.
